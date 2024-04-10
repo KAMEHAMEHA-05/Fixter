@@ -25,7 +25,7 @@ try:
      )
     #st.image('https://chennai.vit.ac.in/wp-content/uploads/2021/08/vit_logo_colored.png', width = 200)
     st.image('https://i.postimg.cc/9Mnmvm31/fixter-logo-removebg-preview.png', width = 400)
-    with open(r"D:\Ishaan\Bin Arena\Fixter\cred.txt", 'r') as cred:
+    with open(<cred_file_path>, 'r') as cred:
         regno = cred.read()
     if regno:
         st.title("Community Issues")

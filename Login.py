@@ -19,7 +19,7 @@ st.markdown(
      unsafe_allow_html=True
  )
 st.image('https://i.postimg.cc/9Mnmvm31/fixter-logo-removebg-preview.png', width = 400)
-with open(r"D:\Ishaan\Bin Arena\Fixter\cred.txt", 'r') as cred:
+with open(<cred_file_path>, 'r') as cred:
     regno = cred.read()
 if not regno:
     st.title("Log In")
@@ -30,7 +30,7 @@ if not regno:
     if submit:
         if fmdb.verify(regno, passwd):
             st.success('Logged In!')
-            with open(r"D:\Ishaan\Bin Arena\Fixter\cred.txt", "w") as file:
+            with open(<cred_file_path>, "w") as file:
                 file.write(regno)
         else:
             st.error("Invalid Credentials")
@@ -40,5 +40,5 @@ else :
     st.write('Reg No : ', regno)
     logout = st.button('Logout')
     if logout:
-        with open(r"D:\Ishaan\Bin Arena\Fixter\cred.txt", 'w') as cred:
+        with open(<cred_file_path>, 'w') as cred:
             pass

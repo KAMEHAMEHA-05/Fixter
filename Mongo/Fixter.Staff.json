@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "661614ad13d28cc9a1d1f5fb"
+  },
+  "Name": "John Doe",
+  "Dept": "hygiene_cleaning",
+  "Avg_Rating": 4.2,
+  "Work_Count": 50,
+  "Phone": "+917906602993",
+  "Employee_ID": "JD001",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "661614c613d28cc9a1d1f5fd"
+  },
+  "Name": "Alice Smith",
+  "Dept": "maintenance_upkeep",
+  "Avg_Rating": 3.8,
+  "Work_Count": 45,
+  "Phone": "+917780523636",
+  "Employee_ID": "AS002",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "661614da13d28cc9a1d1f5ff"
+  },
+  "Name": "Bob Johnson",
+  "Dept": "safety_security",
+  "Avg_Rating": 4.5,
+  "Work_Count": 60,
+  "Phone": "+919773570982",
+  "Employee_ID": "BJ003",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "661614e613d28cc9a1d1f601"
+  },
+  "Name": "Emily Brown",
+  "Dept": "facilities_amenities",
+  "Avg_Rating": 4,
+  "Work_Count": 55,
+  "Phone": "+8698600724",
+  "Employee_ID": "EB004",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "661614f413d28cc9a1d1f603"
+  },
+  "Name": "David Wilson",
+  "Dept": "internet_connectivity",
+  "Avg_Rating": 3.6,
+  "Work_Count": 40,
+  "Phone": "+917906602993",
+  "Employee_ID": "DW005",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "6616150813d28cc9a1d1f605"
+  },
+  "Name": "Sarah Davis",
+  "Dept": "plumbing",
+  "Avg_Rating": 4.3,
+  "Work_Count": 48,
+  "Phone": "+917780523636",
+  "Employee_ID": "SD006",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "6616152213d28cc9a1d1f607"
+  },
+  "Name": "Michael Miller",
+  "Dept": "bathroom_supplies",
+  "Avg_Rating": 3.9,
+  "Work_Count": 42,
+  "Phone": "+919773570982",
+  "Employee_ID": "MM007",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "6616152f13d28cc9a1d1f609"
+  },
+  "Name": "Emma Martinez",
+  "Dept": "bathroom_hardware",
+  "Avg_Rating": 4.1,
+  "Work_Count": 47,
+  "Phone": "+8698600724",
+  "Employee_ID": "EM008",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "6616153b13d28cc9a1d1f60b"
+  },
+  "Name": "James Taylor",
+  "Dept": "electrical",
+  "Avg_Rating": 3.7,
+  "Work_Count": 38,
+  "Phone": "+917906602993",
+  "Employee_ID": "JT009",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "6616154813d28cc9a1d1f60d"
+  },
+  "Name": "Olivia Brown",
+  "Dept": "lighting",
+  "Avg_Rating": 4.4,
+  "Work_Count": 52,
+  "Phone": "+917780523636",
+  "Employee_ID": "OB010",
+  "Status": "free"
+},
+{
+  "_id": {
+    "$oid": "6616155613d28cc9a1d1f60f"
+  },
+  "Name": "John Damon",
+  "Dept": "furniture",
+  "Avg_Rating": 4.4,
+  "Work_Count": 52,
+  "Phone": "+919773570982",
+  "Employee_ID": "JD011",
+  "Status": "free"
+}]

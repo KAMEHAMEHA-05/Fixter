@@ -1,0 +1,382 @@
+[{
+  "_id": {
+    "$oid": "66162311ea2ca44ce77cc597"
+  },
+  "Category": "Community",
+  "Title": "electric",
+  "Description": "Electricity is flowing out",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "16th floor d1",
+  "Time": "10:56:12",
+  "Tags": [
+    "electrical"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JT009"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66161cfbea2ca44ce77cc594"
+  },
+  "Category": "Community",
+  "Title": "balh",
+  "Description": "dirty water in bathrooom",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "8 floor d1",
+  "Time": "10:30:37",
+  "Tags": [
+    "plumbing",
+    "bathroom_hardware"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "SD006"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66162413ea2ca44ce77cc598"
+  },
+  "Category": "Community",
+  "Title": "electric",
+  "Description": "Electricity is flowing out",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "16th floor d1",
+  "Time": "10:56:12",
+  "Tags": [
+    "electrical"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JT009"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "661627a6ea2ca44ce77cc5a0"
+  },
+  "Category": "Community",
+  "Title": "AC",
+  "Description": "AC not working",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "D1 818",
+  "Time": "11:14:26",
+  "Tags": [
+    "electrical"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JT009"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "661628baea2ca44ce77cc5a3"
+  },
+  "Category": "Community",
+  "Title": "Broken door",
+  "Description": "the bolt lock of a cubicle in the bathroom is broken",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "9th floor D1",
+  "Time": "11:19:29",
+  "Tags": [
+    "plumbing",
+    "safety_security",
+    "furniture",
+    "facilities_amenities"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "SD006"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66162a66ea2ca44ce77cc5a5"
+  },
+  "Category": "Community",
+  "Title": "Ac not workkinh",
+  "Description": "ac not workong for days",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "kjbk.kjbkh",
+  "Time": "11:27:54",
+  "Tags": [
+    "internet_connectivity"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "DW005"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66162b81ea2ca44ce77cc5a7"
+  },
+  "Category": "Indivisual",
+  "Title": "khbklhb",
+  "Description": "kbknbkjbluhgb",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "hvmbn,mb,mn",
+  "Time": "11:30:29",
+  "Tags": [
+    "internet_connectivity"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "DW005"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66162da6ea2ca44ce77cc5a9"
+  },
+  "Category": "Community",
+  "Title": "Water leakage through the geaser",
+  "Description": "Water leakage through the geaser",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "6 floor c block",
+  "Time": "11:39:59",
+  "Tags": [
+    "plumbing",
+    "hygiene_cleanliness"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "SD006"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66163baeea2ca44ce77cc5b6"
+  },
+  "Category": "Community",
+  "Title": "Stinky air from the AC",
+  "Description": "Recently the AC started making weird sounds and now the air coming out of it stinks. ",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "D1-818",
+  "Time": "12:16:09",
+  "Tags": [
+    "electrical",
+    "safety_security",
+    "plumbing"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JT009"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66164068ea2ca44ce77cc5bc"
+  },
+  "Category": "Community",
+  "Title": "AC not working",
+  "Description": "AC has been making weird sounds and now even the air that comes from it has began to stink.",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "C block 305",
+  "Time": "12:59:26",
+  "Tags": [
+    "electrical",
+    "safety_security",
+    "plumbing"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JT009"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66163de7ea2ca44ce77cc5b9"
+  },
+  "Category": "Community",
+  "Title": "Darkness in Corridors",
+  "Description": "A couple of the bulbs in the corridor aren't working making the corridors very dark and unpleasant.",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "A block 7th floor",
+  "Time": "12:50:58",
+  "Tags": [
+    "furniture",
+    "lighting"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JD011"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "661646d2ea2ca44ce77cc5bd"
+  },
+  "Category": "Indivisual",
+  "Title": "AC Not Working",
+  "Description": "AC has been making weird sounds for the past few days and now it has totally stopped functioning.",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "D1 - 704",
+  "Time": "12:59:26",
+  "Tags": [
+    "electrical",
+    "safety_security",
+    "internet_connectivity"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JT009"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66164820ea2ca44ce77cc5be"
+  },
+  "Category": "Community",
+  "Title": "Dark Corridor",
+  "Description": "A couple of the bulbs in the corridor aren't working.",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "3rd floor, C Block",
+  "Time": "12:59:26",
+  "Tags": [
+    "furniture",
+    "lighting"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JD011"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "6616562eea2ca44ce77cc5c4"
+  },
+  "Category": "Individual",
+  "Title": "Check1",
+  "Description": "Check2",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "check3",
+  "Time": "14:33:53",
+  "Tags": [
+    "safety_security"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "BJ003"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "6616574fea2ca44ce77cc5c5"
+  },
+  "Category": "Community",
+  "Title": "check1",
+  "Description": "check2",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "check3",
+  "Time": "14:33:53",
+  "Tags": [
+    "safety_security"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "BJ003"
+    ],
+    [],
+    []
+  ]
+},
+{
+  "_id": {
+    "$oid": "66165aceea2ca44ce77cc5c6"
+  },
+  "Category": "Community",
+  "Title": "Bulbs malfunctioning",
+  "Description": "A couple bulbs in the corridor don't work",
+  "Image Path": "None",
+  "Resident": "54321",
+  "Address": "8thfloor A block",
+  "Time": "14:33:53",
+  "Tags": [
+    "furniture",
+    "lighting"
+  ],
+  "Status": "Closed",
+  "Assigned": [
+    [
+      "JD011"
+    ],
+    [],
+    []
+  ]
+}]

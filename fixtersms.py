@@ -3,9 +3,9 @@ import time
 import streamlit as st
 
 # Twilio credentials
-account_sid = 'ACb942bd73b4128c86649f710528454b2a'
-auth_token = 'fca0c347814cedf4d7c1c329a92cb165'
-twilio_number = '+12513131540'
+account_sid = <Add your account_sid here>
+auth_token = <Add your auth_token here>
+twilio_number = <Add your twilio number here>
 
 # Initialize Twilio client
 client = Client(account_sid, auth_token)

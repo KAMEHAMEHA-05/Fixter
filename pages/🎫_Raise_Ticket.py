@@ -25,12 +25,12 @@ st.markdown(
  )
 #st.image('https://chennai.vit.ac.in/wp-content/uploads/2021/08/vit_logo_colored.png', 200)
 st.image('https://i.postimg.cc/9Mnmvm31/fixter-logo-removebg-preview.png', width = 400)
-with open(r"D:\Ishaan\Bin Arena\Fixter\cred.txt", 'r') as cred:
+with open(<cred_file_path>, 'r') as cred:
     regno = cred.read()
 if regno:
     queue = []
     st.title("Report an Issue")
-    form = st.form(key='SACS PRACTICAL')
+    form = st.form(key='Raise ticket')
     title = form.text_input("Title")
     category = form.selectbox("Category of Issue", ["Community", "Indivisual"])
     description = form.text_area("Description", max_chars=500)
